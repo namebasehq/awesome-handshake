@@ -20,6 +20,7 @@ A collection of awesome things regarding the Handshake ecosystem.
 
 - [turbomaze](http://turbomaze./) - Hello World website for using a Handshake TLD as a domain directly. Includes visit counter.
 - [me.turbomaze](http://me.turbomaze./) - Anthony Liu's (Namebase Cofounder and CTO) personal website
+- [mine](http://mine./) - Mining pools for your favorite coins!
 
 #### Handshake Resolvers
 - [NextDNS](https://nextdns.io) - One of Firefox's Trusted Resolvers. Privacy-focused alternative to Cloudflare and Google
