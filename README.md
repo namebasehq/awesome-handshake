@@ -16,6 +16,8 @@ A collection of awesome things regarding the Handshake ecosystem.
 
 #### Handshake Sites
 
+> Requires a Handshake resolver to work
+
 - [turbomaze](http://turbomaze./) - Hello World website for using a Handshake TLD as a domain directly. Includes visit counter.
 - [me.turbomaze](http://me.turbomaze./) - Anthony Liu's (Namebase Cofounder and CTO) personal website
 
