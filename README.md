@@ -25,6 +25,7 @@ A collection of awesome things regarding the Handshake ecosystem.
 - [mine](http://mine./) - Mining pools for your favorite coins!
 - [hsd.laboratory](http://hsd.laboratory./) - TBD but it currently has cats
 - [:handshake:](http://xn--5p9h./) - Hello world using the :handshake: emoji domain
+- [welcome.2d](http://welcome.2d./) - The first domain registry for Handshake! Check it out to get a free *.2d domain :)
 
 #### Handshake Resolvers
 - [NextDNS](https://nextdns.io) - One of Firefox's Trusted Resolvers. Privacy-focused alternative to Cloudflare and Google
