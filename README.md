@@ -28,6 +28,7 @@ A collection of awesome things regarding the Handshake ecosystem.
 - [welcome.2d](http://welcome.2d./) - The first domain registry for Handshake! Check it out to get a free *.2d domain :)
 - [onlinestopwatch](http://onlinestopwatch./) - Simple Stopwatch made with Svelte. [GitHub](https://github.com/k/onlinestopwatch)
 - [timeto.shift](http://timeto.shift./) - Important message for everyone who isn't on Handshake yet
+- [live.ix](http://live.ix/) - DNS.LIVE on Handshake
 
 #### Handshake Resolvers
 - [NextDNS](https://nextdns.io) - One of Firefox's Trusted Resolvers. Privacy-focused alternative to Cloudflare and Google
