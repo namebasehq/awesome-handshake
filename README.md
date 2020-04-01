@@ -35,6 +35,12 @@ A collection of awesome things regarding the Handshake ecosystem.
 - [NextDNS](https://nextdns.io) - One of Firefox's Trusted Resolvers. Privacy-focused alternative to Cloudflare and Google
 - [easyhandshake](https://easyhandshake.com/) - How to set up a resolver using a Handshake fullnode
 
+#### Handshake-Compatible Deployment Services
+- Amazon S3
+- GitHub Pages
+- Heroku
+- Zeit (coming soon)
+
 #### Handshake Community
 
 - [Namer Community](http://namebase.community)
