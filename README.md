@@ -30,7 +30,7 @@ A collection of awesome things regarding the Handshake ecosystem.
 - [onlinestopwatch](http://onlinestopwatch./) - Simple Stopwatch made with Svelte. [GitHub](https://github.com/k/onlinestopwatch)
 - [timeto.shift](http://timeto.shift./) - Important message for everyone who isn't on Handshake yet
 - [live.ix](http://live.ix/) - DNS.LIVE on Handshake
-- [racascou](http://www.racascou./) - Play the game created by the [Namer Community's](http://namebase.community) Chief Meme Officer
+- [foda.racascou](http://foda.racascou./) - Play Fight over dat Ancient, the game created by the [Namer Community's](http://namebase.community) Chief Meme Officer
 - [humbly](http://humbly./) - Homepage for projects created by the park.io team
 - [cointoss](http://cointoss./) - Cointoss app on Handshake at an easy-to-remember domain
 - [dwz](http://dwz./) - Alias for CentOS
