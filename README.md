@@ -38,6 +38,7 @@ A collection of awesome things regarding the Handshake ecosystem.
 - [hns.dataroom](http://hns.dataroom./) - HNS stuff coming soon
 - [i.shifu](http://i.shifu./)
 - [punjabis./](http://punjabis./)
+- [d.yup](http://d.yup./)
 
 #### Handshake Resolvers
 - [NextDNS](https://nextdns.io) - One of Firefox's Trusted Resolvers. Privacy-focused alternative to Cloudflare and Google
