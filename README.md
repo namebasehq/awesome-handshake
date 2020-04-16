@@ -35,7 +35,7 @@ A collection of awesome things regarding the Handshake ecosystem.
 - [cointoss](http://cointoss./) - Cointoss app on Handshake at an easy-to-remember domain
 - [dwz](http://dwz./) - Alias for CentOS
 - [com.alphaama](http://com.alphaama/) - Crypto related experiements
-- [hns.dataroom](http://hns.dataroom./) - HNS stuff coming soon
+- [hns.dataroom](http://hns.dataroom./) - Be notified 20 blocks before the end of an auction and show your interest for a TLD (or your ownership)
 - [i.shifu](http://i.shifu./)
 - [punjabis./](http://punjabis./)
 
