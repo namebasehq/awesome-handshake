@@ -39,6 +39,7 @@ A collection of awesome things regarding the Handshake ecosystem.
 - [i.shifu](http://i.shifu./)
 - [punjabis./](http://punjabis./)
 - [d.yup](http://d.yup./)
+- [kind.thief](http://kind.thief./) - Check out Gonçalo's personal blog on Handshake. Gonçalo cofounded ConsenSys Diligence!
 
 #### Handshake Resolvers
 - [NextDNS](https://nextdns.io) - One of Firefox's Trusted Resolvers. Privacy-focused alternative to Cloudflare and Google
