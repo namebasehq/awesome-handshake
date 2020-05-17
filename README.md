@@ -62,6 +62,7 @@ A collection of awesome things regarding the Handshake ecosystem.
 - [Namebase](https://namebase.io) - domain registrar and exchange for Handshake
 - [HSD Tools](https://hsd.tools) - Handshake auction lists
 - [DNS.LIVE](https://dns.live) - Handshake stats and free hosting
+- [HNScan)(https://hnscan.com) - Handshake block explorer
 
 ### Contribution
 
