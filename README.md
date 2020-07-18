@@ -40,6 +40,11 @@ A collection of awesome things regarding the Handshake ecosystem.
 - [punjabis./](http://punjabis./)
 - [d.yup](http://d.yup./)
 - [kind.thief](http://kind.thief./) - Check out Gonçalo's personal blog on Handshake. Gonçalo cofounded ConsenSys Diligence!
+- [willcroteau](http://willcroteau./) - Some kind of psychedelic game ...?
+- [proofofconcept](https://proofofconcept./) - A social network for Handshake secured by DANE where every user gets a subdomain
+- [hns-contributor](https://hns-contributor./) - A grant proposal to raise money for Handshake development (mirrored at https://hns-contributor.dev)
+- [bcoin.js](http://bcoin.js/) - Redirects to the bcoin source code repository
+- [hsd.js](http://hsd.js/) - Redirects to the hsd source code repository
 
 #### Handshake Resolvers
 - [NextDNS](https://nextdns.io) - One of Firefox's Trusted Resolvers. Privacy-focused alternative to Cloudflare and Google
