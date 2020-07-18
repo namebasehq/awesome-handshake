@@ -45,6 +45,7 @@ A collection of awesome things regarding the Handshake ecosystem.
 - [hns-contributor](https://hns-contributor./) - A grant proposal to raise money for Handshake development (mirrored at https://hns-contributor.dev)
 - [bcoin.js](http://bcoin.js/) - Redirects to the bcoin source code repository
 - [hsd.js](http://hsd.js/) - Redirects to the hsd source code repository
+- [domains.tasuki](http://domains.tasuki/) - domains for sale, and [sniper.tasuki](http://sniper.tasuki/) - spot ending-soon HNS auctions
 
 #### Handshake Resolvers
 - [NextDNS](https://nextdns.io) - One of Firefox's Trusted Resolvers. Privacy-focused alternative to Cloudflare and Google
