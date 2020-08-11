@@ -43,6 +43,7 @@ A collection of awesome things regarding the Handshake ecosystem.
 - [willcroteau](http://willcroteau./) - Some kind of psychedelic game ...?
 - [proofofconcept](https://proofofconcept./) - A social network for Handshake secured by DANE where every user gets a subdomain
 - [hns-contributor](https://hns-contributor./) - A grant proposal to raise money for Handshake development (mirrored at https://hns-contributor.dev)
+- [parking.sinpapeles](http://parking.sinpapeles/) - A free domain parking service & selling domain listing.
 - [bcoin.js](http://bcoin.js/) - Redirects to the bcoin source code repository
 - [hsd.js](http://hsd.js/) - Redirects to the hsd source code repository
 - [domains.tasuki](http://domains.tasuki/) - domains for sale, and [sniper.tasuki](http://sniper.tasuki/) - spot ending-soon HNS auctions
