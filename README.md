@@ -68,7 +68,7 @@ A collection of awesome things regarding the Handshake ecosystem.
 - [Namebase](https://namebase.io) - domain registrar and exchange for Handshake
 - [HSD Tools](https://hsd.tools) - Handshake auction lists
 - [DNS.LIVE](https://dns.live) - Handshake stats and free hosting
-- [Handshake Proxy](https://github.com/handshake-cn/handshakeproxy) - Http(s) proxy can visit handshake doamin.
+- [Handshake Proxy](https://github.com/handshake-cn/handshakeproxy) - Http(s) proxy can visit handshake domain.
 
 ### Contribution
 
