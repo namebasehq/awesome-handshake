@@ -46,6 +46,7 @@ A collection of awesome things regarding the Handshake ecosystem.
 - [bcoin.js](http://bcoin.js/) - Redirects to the bcoin source code repository
 - [hsd.js](http://hsd.js/) - Redirects to the hsd source code repository
 - [domains.tasuki](http://domains.tasuki/) - domains for sale, and [sniper.tasuki](http://sniper.tasuki/) - spot ending-soon HNS auctions
+- [domains.durendil](http://domains.durendil/) - domains for sale
 - [handshake.txt](http://handshake.txt/) - Redirects to the handshake whitepaper
 - [chessboard](http://chessboard./) - View any chess position in FEN notation as a base32 encoded domain
 
