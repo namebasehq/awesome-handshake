@@ -31,7 +31,7 @@ A collection of awesome things regarding the Handshake ecosystem.
 - [timeto.shift](http://timeto.shift./) - Important message for everyone who isn't on Handshake yet
 - [live.ix](http://live.ix/) - DNS.LIVE on Handshake
 - [foda.racascou](http://foda.racascou./) - Play Fight over dat Ancient, the game created by the [Namer Community's](http://namebase.community) Chief Meme Officer
-- [humbly](http://humbly./) - Homepage for projects created by the park.io team
+- [humbly](https://humbly./) - Homepage for projects created by the park.io team
 - [cointoss](http://cointoss./) - Cointoss app on Handshake at an easy-to-remember domain
 - [dwz](http://dwz./) - Alias for CentOS
 - [com.alphaama](http://com.alphaama/) - Crypto related experiements
@@ -47,6 +47,8 @@ A collection of awesome things regarding the Handshake ecosystem.
 - [hsd.js](http://hsd.js/) - Redirects to the hsd source code repository
 - [domains.tasuki](http://domains.tasuki/) - domains for sale, and [sniper.tasuki](http://sniper.tasuki/) - spot ending-soon HNS auctions
 - [domains.durendil](http://domains.durendil/) - domains for sale
+- [handshake.txt](http://handshake.txt/) - Redirects to the handshake whitepaper
+- [chessboard](http://chessboard./) - View any chess position in FEN notation as a base32 encoded domain
 
 #### Handshake Resolvers
 - [NextDNS](https://nextdns.io) - One of Firefox's Trusted Resolvers. Privacy-focused alternative to Cloudflare and Google
@@ -69,7 +71,7 @@ A collection of awesome things regarding the Handshake ecosystem.
 - [Namebase](https://namebase.io) - domain registrar and exchange for Handshake
 - [HSD Tools](https://hsd.tools) - Handshake auction lists
 - [DNS.LIVE](https://dns.live) - Handshake stats and free hosting
-- [Handshake Proxy](https://github.com/handshake-cn/handshakeproxy) - Http(s) proxy can visit handshake doamin.
+- [Handshake Proxy](https://github.com/handshake-cn/handshakeproxy) - Http(s) proxy can visit handshake domain.
 
 ### Contribution
 
