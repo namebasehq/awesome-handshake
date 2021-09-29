@@ -50,6 +50,7 @@ A collection of awesome things regarding the Handshake ecosystem.
 - [domains.durendil](http://domains.durendil/) - domains for sale
 - [handshake.txt](http://handshake.txt/) - Redirects to the handshake whitepaper
 - [chessboard](http://chessboard./) - View any chess position in FEN notation as a base32 encoded domain
+- [minesweeper](http://minesweeper/) - Minesweeper game deployed on Akash
 
 #### Handshake Resolvers
 - [NextDNS](https://nextdns.io) - One of Firefox's Trusted Resolvers. Privacy-focused alternative to Cloudflare and Google
