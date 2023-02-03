@@ -6,6 +6,7 @@ A collection of awesome things regarding the Handshake ecosystem.
 - [Handshake](#handshake)
   - [Handshake Sites](#handshake-sites)
   - [Handshake Resolvers](#handshake-resolvers)
+  - [Handshake Nameservers](#handshake-nameservers)
   - [Handshake-Compatible Deployment Services](#handshake-compatible-deployment-services)
   - [Handshake Community](#handshake-community)
   - [Other](#other)
@@ -42,6 +43,9 @@ A collection of awesome things regarding the Handshake ecosystem.
 - [easyhandshake](https://easyhandshake.com/) - How to set up a resolver using a Handshake fullnode
 - [Beacon Browser](https://impervious.com/beacon) - Fork of Brave Browser has native handshake resolving with HTTPS via DANE
 
+#### Handshake Nameservers
+- [Varo](https://varo.domains)
+- PowerDNS - [tutorial](https://blog.htools.work/posts/hns-pdns-nginx/)
 #### Handshake-Compatible Deployment Services
 - Amazon S3
 - GitHub Pages
