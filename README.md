@@ -46,11 +46,11 @@ A collection of awesome things regarding the Handshake ecosystem.
 - Amazon S3
 - GitHub Pages
 - Heroku
-- Zeit (coming soon)
+- Vercel (formerly Zeit)
 
 #### Handshake Community
 
-- [Namer Community](http://namebase.community)
+- [Namer Community Discord](http://namebase.community)
 - [Telegram](https://t.me/handshake_hns)
 - [Dev Telegram](https://t.me/hns_tech)
 - [Reddit](https://reddit.com/r/handshake)
