@@ -6,7 +6,9 @@ A collection of awesome things regarding the Handshake ecosystem.
 - [Handshake](#handshake)
   - [Handshake Sites](#handshake-sites)
   - [Handshake Resolvers](#handshake-resolvers)
+  - [Handshake Nameservers](#handshake-nameservers)
   - [Handshake-Compatible Deployment Services](#handshake-compatible-deployment-services)
+  - [Tutorials](#tutorials)
   - [Handshake Community](#handshake-community)
   - [Other](#other)
 - [Contribution](#contribution)
@@ -34,7 +36,9 @@ A collection of awesome things regarding the Handshake ecosystem.
 - [parking.sinpapeles](http://parking.sinpapeles/) - A free domain parking service & selling domain listing.
 - [domains.tasuki](http://domains.tasuki/) - domains for sale, and [sniper.tasuki](http://sniper.tasuki/) - spot ending-soon HNS auctions
 - [domains.durendil](http://domains.durendil/) - domains for sale
-
+- [varo](https://varo/) - A domain registrar and nameserver for Handshake
+- [setup.skyinclude](http://setup.skyinclude/) - Handshake Blogs & Guides
+- [hnshosting](http://hnshosting/) - Handshake Hosting Service
 
 #### Handshake Resolvers
 - [Fingertip](https://impervious.com/fingertip) - Handshake resolver by Impervious which supports HTTPS via DANE
@@ -42,11 +46,19 @@ A collection of awesome things regarding the Handshake ecosystem.
 - [easyhandshake](https://easyhandshake.com/) - How to set up a resolver using a Handshake fullnode
 - [Beacon Browser](https://impervious.com/beacon) - Fork of Brave Browser has native handshake resolving with HTTPS via DANE
 
+#### Handshake Nameservers
+- [Varo](https://varo.domains)
+- PowerDNS - [tutorial](https://blog.htools.work/posts/hns-pdns-nginx/)
+  
 #### Handshake-Compatible Deployment Services
 - Amazon S3
 - GitHub Pages
 - Heroku
 - Vercel (formerly Zeit)
+
+#### Tutorials
+- [How to set up a website on a free Google VM](https://www.instructables.com/Nginx-DANE-Hosting-on-Google-VM-for-Handshake/)
+- 
 
 #### Handshake Community
 
