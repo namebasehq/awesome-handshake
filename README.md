@@ -8,6 +8,7 @@ A collection of awesome things regarding the Handshake ecosystem.
   - [Handshake Resolvers](#handshake-resolvers)
   - [Handshake Nameservers](#handshake-nameservers)
   - [Handshake-Compatible Deployment Services](#handshake-compatible-deployment-services)
+  - [Tutorials](#tutorials)
   - [Handshake Community](#handshake-community)
   - [Other](#other)
 - [Contribution](#contribution)
@@ -37,6 +38,7 @@ A collection of awesome things regarding the Handshake ecosystem.
 - [domains.durendil](http://domains.durendil/) - domains for sale
 - [varo](https://varo/) - A domain registrar and nameserver for Handshake
 - [setup.skyinclude](http://setup.skyinclude/) - Handshake Blogs & Guides
+- [hnshosting](http://hnshosting/) - Handshake Hosting Service
 
 #### Handshake Resolvers
 - [Fingertip](https://impervious.com/fingertip) - Handshake resolver by Impervious which supports HTTPS via DANE
@@ -47,11 +49,16 @@ A collection of awesome things regarding the Handshake ecosystem.
 #### Handshake Nameservers
 - [Varo](https://varo.domains)
 - PowerDNS - [tutorial](https://blog.htools.work/posts/hns-pdns-nginx/)
+  
 #### Handshake-Compatible Deployment Services
 - Amazon S3
 - GitHub Pages
 - Heroku
 - Vercel (formerly Zeit)
+
+#### Tutorials
+- [How to set up a website on a free Google VM](https://www.instructables.com/Nginx-DANE-Hosting-on-Google-VM-for-Handshake/)
+- 
 
 #### Handshake Community
 
