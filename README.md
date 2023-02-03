@@ -59,7 +59,6 @@ A collection of awesome things regarding the Handshake ecosystem.
 
 #### Tutorials
 - [How to set up a website on a free Google VM](https://www.instructables.com/Nginx-DANE-Hosting-on-Google-VM-for-Handshake/)
-- 
 
 #### Handshake Community
 
