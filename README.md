@@ -37,8 +37,10 @@ A collection of awesome things regarding the Handshake ecosystem.
 
 
 #### Handshake Resolvers
+- [Fingertip](https://impervious.com/fingertip) - Handshake resolver by Impervious which supports HTTPS via DANE
 - [NextDNS](https://nextdns.io) - One of Firefox's Trusted Resolvers. Privacy-focused alternative to Cloudflare and Google
 - [easyhandshake](https://easyhandshake.com/) - How to set up a resolver using a Handshake fullnode
+- [Beacon Browser](https://impervious.com/beacon) - Fork of Brave Browser has native handshake resolving with HTTPS via DANE
 
 #### Handshake-Compatible Deployment Services
 - Amazon S3
