@@ -35,7 +35,7 @@ A collection of awesome things regarding the Handshake ecosystem.
 - [parking.sinpapeles](http://parking.sinpapeles/) - A free domain parking service & selling domain listing.
 - [domains.tasuki](http://domains.tasuki/) - domains for sale, and [sniper.tasuki](http://sniper.tasuki/) - spot ending-soon HNS auctions
 - [domains.durendil](http://domains.durendil/) - domains for sale
-
+- [varo](https://varo/) - A domain registrar and nameserver for Handshake
 
 #### Handshake Resolvers
 - [Fingertip](https://impervious.com/fingertip) - Handshake resolver by Impervious which supports HTTPS via DANE
