@@ -55,6 +55,7 @@ A collection of awesome things regarding the Handshake ecosystem.
 - GitHub Pages
 - Heroku
 - Vercel (formerly Zeit)
+- [Fleek](https://docs.fleek.co/domain-management/hns-domains/)
 
 #### Tutorials
 - [How to set up a website on a free Google VM](https://www.instructables.com/Nginx-DANE-Hosting-on-Google-VM-for-Handshake/)
